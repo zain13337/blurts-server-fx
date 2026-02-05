@@ -70,7 +70,7 @@
     "npm": "10.1.0"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.722.0",
+    "@aws-sdk/client-s3": "^3.894.0",
     "@aws-sdk/lib-storage": "^3.722.0",
     "@fluent/bundle": "^0.18.0",
     "@fluent/langneg": "^0.7.0",
@@ -91,7 +91,7 @@
     "@types/react-dom": "^18.3.1",
     "canvas-confetti": "^1.9.3",
     "dotenv-flow": "^4.1.0",
-    "eslint-config-next": "^14.2.15",
+    "eslint-config-next": "^15.0.0",
     "ioredis": "^5.4.2",
     "jsdom": "^25.0.1",
     "jsonwebtoken": "^9.0.2",
